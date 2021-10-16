@@ -1,0 +1,15 @@
+1-Do dien-aaaaaaaaa-Hoat dong-0
+2-Thực phẩm-aaaaaaaaaaaa-Hoat dong-0
+3-Vệ sinh-aaaaaaaa-Khong hoat dong-0
+4-Quạt-aaaaaaaaa-Hoat dong-1
+5-Tủ lạnh-aaaaaaaaa-Hoat dong-1
+6-Bánh-aaaaaaaaa-Hoat dong-2
+7-Bàn chải-aaaaaaaaa-Hoat dong-3
+8-Kem đánh răng-aaaaaaaaa-Hoat dong-3
+9-Tủ đá-aaaaaaaaa-Hoat dong-5
+10-Tủ lạnh 3 ngăn-aaaaaaaaa-Hoat dong-5
+11-Bàn chải điện-aaaaaaaaa-Hoat dong-7
+12-Bàn chải từ-aaaaaaaaa-Hoat dong-7
+13-Bàn chải siêu âm-aaaaaaaaa-Hoat dong-7
+14-Chạy pin-aaaaaaaaa-Hoat dong-11
+15-Sạc USB-aaaaaaaaa-Hoat dong-11
